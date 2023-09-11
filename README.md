@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinPadillaCSS
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning at CSULA pursuing a bachelor's
+- 🌱 I’m currently learning at CSULA pursuing a bachelors in Computer Science
 - 📫 How to reach me (email: kevinpadilla713@yahoo.com)
 
 <!---
